@@ -12,7 +12,7 @@ class DetailViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("初始化成功");
         // Do any additional setup after loading the view.
     }
 
